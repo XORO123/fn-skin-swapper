@@ -35,4 +35,5 @@ Xoro FNS Skin Swapper is a powerful tool that allows players to conveniently swa
 
 ## Troubleshooting
 
-- If the application is not functioning correctly or encountering errors, try
+- If the application is not functioning correctly or encountering errors,contact the owner of the github
+- we are making a discord server!!!!!
